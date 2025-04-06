@@ -1,0 +1,6 @@
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP1\bin\Debug\MetodologiaTP1.exe.config
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP1\bin\Debug\MetodologiaTP1.exe
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP1\bin\Debug\MetodologiaTP1.pdb
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP1\obj\Debug\MetodologiaTP1.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP1\obj\Debug\MetodologiaTP1.exe
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP1\obj\Debug\MetodologiaTP1.pdb
