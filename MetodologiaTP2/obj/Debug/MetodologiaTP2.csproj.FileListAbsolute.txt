@@ -1,0 +1,16 @@
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP2\bin\Debug\MetodologiaTP2.exe.config
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP2\bin\Debug\MetodologiaTP2.exe
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP2\bin\Debug\MetodologiaTP2.pdb
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP2\obj\Debug\MetodologiaTP2.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP2\obj\Debug\MetodologiaTP2.exe
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP2\obj\Debug\MetodologiaTP2.pdb
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP2\bin\Debug\MetodologiaTP1.exe
+C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP1\MetodologiaTP2\bin\Debug\MetodologiaTP1.pdb
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP2\bin\Debug\MetodologiaTP2.exe.config
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP2\bin\Debug\MetodologiaTP2.exe
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP2\bin\Debug\MetodologiaTP2.pdb
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP2\bin\Debug\MetodologiaTP1.exe
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP2\bin\Debug\MetodologiaTP1.pdb
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP2\obj\Debug\MetodologiaTP2.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP2\obj\Debug\MetodologiaTP2.exe
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP2\obj\Debug\MetodologiaTP2.pdb
