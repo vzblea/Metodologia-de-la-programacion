@@ -1,0 +1,6 @@
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP3\MetodologiaTP3\MetodologiaTP3\obj\Debug\MetodologiaTP3.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP3\MetodologiaTP3\MetodologiaTP3\bin\Debug\MetodologiaTP3.exe.config
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP3\MetodologiaTP3\MetodologiaTP3\bin\Debug\MetodologiaTP3.exe
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP3\MetodologiaTP3\MetodologiaTP3\bin\Debug\MetodologiaTP3.pdb
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP3\MetodologiaTP3\MetodologiaTP3\obj\Debug\MetodologiaTP3.exe
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP3\MetodologiaTP3\MetodologiaTP3\obj\Debug\MetodologiaTP3.pdb

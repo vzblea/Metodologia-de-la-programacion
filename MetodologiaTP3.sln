@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodologiaTP3", "MetodologiaTP3\MetodologiaTP3.csproj", "{F52A16E3-3023-4D61-9923-048B5FA48F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52A16E3-3023-4D61-9923-048B5FA48F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52A16E3-3023-4D61-9923-048B5FA48F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52A16E3-3023-4D61-9923-048B5FA48F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52A16E3-3023-4D61-9923-048B5FA48F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
