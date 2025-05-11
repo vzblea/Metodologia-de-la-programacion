@@ -1,6 +1,0 @@
-C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP4\MetodologiaTP4\obj\Debug\MetodologiaTP4.csprojResolveAssemblyReference.cache
-C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP4\MetodologiaTP4\bin\Debug\MetodologiaTP4.exe.config
-C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP4\MetodologiaTP4\bin\Debug\MetodologiaTP4.exe
-C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP4\MetodologiaTP4\bin\Debug\MetodologiaTP4.pdb
-C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP4\MetodologiaTP4\obj\Debug\MetodologiaTP4.exe
-C:\Users\Adriana\Documents\SharpDevelop Projects\MetodologiaTP4\MetodologiaTP4\obj\Debug\MetodologiaTP4.pdb
