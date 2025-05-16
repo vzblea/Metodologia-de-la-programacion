@@ -1,0 +1,6 @@
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP5\MetodologiaTP5\bin\Debug\MetodologiaTP5.exe.config
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP5\MetodologiaTP5\bin\Debug\MetodologiaTP5.exe
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP5\MetodologiaTP5\bin\Debug\MetodologiaTP5.pdb
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP5\MetodologiaTP5\obj\Debug\MetodologiaTP5.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP5\MetodologiaTP5\obj\Debug\MetodologiaTP5.exe
+C:\Users\Adriana\Desktop\Metodologia 1\MetodologiaTP5\MetodologiaTP5\obj\Debug\MetodologiaTP5.pdb
